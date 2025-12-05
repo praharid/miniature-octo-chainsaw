@@ -798,6 +798,7 @@
       },
       {
         "id": "quote",
+        "name": "quote",
         "fields": [
           {
             "component": "richtext",
