@@ -802,17 +802,15 @@
         "fields": [
           {
             "component": "richtext",
-            "name": "quote",
-            "label": "Quote",
-            "valueType": "string",
-            "value": ""
+            "name": "rte",
+            "label": "RTE",
+            "valueType": "string"
           },
           {
             "component": "text",
             "name": "author",
             "label": "Author",
-            "valueType": "string",
-            "value": ""
+            "valueType": "string"
           }
         ]
       }
